@@ -28,7 +28,7 @@ Teaching backpropogation for School of AI: Philadelphia Meetup
 		* Want to learn about markdown. Visit [this](https://daringfireball.net/projects/markdown/basics) site for information regarding formatting your Jupiter notebooks.
 			* There are some [magic keywords](http://ipython.readthedocs.io/en/stable/interactive/magics.html) for you to use in the notebooks. I’ll leave it for you to explore.
 			
-			###  Siraj Raval
+###  Siraj Raval
 * [School of AI](https://www.theschool.ai)
 * [LinkedIn](https://www.linkedin.com/in/sirajraval)
 * [YouTube](https://www.youtube.com/c/sirajraval) 
