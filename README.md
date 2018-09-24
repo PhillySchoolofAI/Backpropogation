@@ -27,3 +27,9 @@ Teaching backpropogation for School of AI: Philadelphia Meetup
 	* [Example](https://github.com/jubeenshah/School-of-ai-raleigh/blob/master/01-Meetup-Introductory/Demo/01-Regression.ipynb)
 		* Want to learn about markdown. Visit [this](https://daringfireball.net/projects/markdown/basics) site for information regarding formatting your Jupiter notebooks.
 			* There are some [magic keywords](http://ipython.readthedocs.io/en/stable/interactive/magics.html) for you to use in the notebooks. I’ll leave it for you to explore.
+			
+			###  Siraj Raval
+* [School of AI](https://www.theschool.ai)
+* [LinkedIn](https://www.linkedin.com/in/sirajraval)
+* [YouTube](https://www.youtube.com/c/sirajraval) 
+* [Twitter](https://twitter.com/sirajraval)
