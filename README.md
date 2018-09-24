@@ -1,7 +1,7 @@
-# Backpropogation
+### Backpropogation
 Teaching backpropogation for School of AI: Philadelphia Meetup
 
-# Relevant Videos / Visuals
+### Relevant Videos / Visuals
 
 [Explaining Backpropogation: Siraj Rival](https://www.youtube.com/watch?v=FaHHWdsIYQg&vl=en)
 
@@ -27,6 +27,12 @@ Teaching backpropogation for School of AI: Philadelphia Meetup
 	* [Example](https://github.com/jubeenshah/School-of-ai-raleigh/blob/master/01-Meetup-Introductory/Demo/01-Regression.ipynb)
 		* Want to learn about markdown. Visit [this](https://daringfireball.net/projects/markdown/basics) site for information regarding formatting your Jupiter notebooks.
 			* There are some [magic keywords](http://ipython.readthedocs.io/en/stable/interactive/magics.html) for you to use in the notebooks. I’ll leave it for you to explore.
+			
+			
+###  Books 
+* [Deep learning book ](http://www.deeplearningbook.org/)
+* [Neural Networks and DeepLearning](http://neuralnetworksanddeeplearning.com/) 
+	* Free online book for you to learn more about deep learning 
 			
 ###  Siraj Raval
 * [School of AI](https://www.theschool.ai)
